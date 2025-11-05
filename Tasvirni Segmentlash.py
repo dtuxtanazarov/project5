@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+# Bu uzgarish clone repodan
 def segment_image_kmeans(image_path, K=99):
     # Tasvirni o'qish
     img = cv2.imread(image_path)

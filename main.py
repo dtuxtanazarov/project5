@@ -37,3 +37,4 @@ for i in range(reduced.shape[1]):
 df.to_csv("uzbek_QA_PCA.csv", index=False, encoding="utf-8-sig")
 
 print("✅ Natija saqlandi: uzbek_QA_PCA.csv")
+
